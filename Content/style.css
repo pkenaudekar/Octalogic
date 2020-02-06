@@ -1,0 +1,11 @@
+﻿
+
+.habitable {    
+   color: green;
+   font-weight:500;
+}
+
+.unhabitable {
+    background-color: red;
+    color: white;   
+}
